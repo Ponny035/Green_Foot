@@ -1,2 +1,2 @@
 # Green_Foot
-for project green foot
+For project green foot in CSC105
