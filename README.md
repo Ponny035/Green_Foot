@@ -8,3 +8,4 @@ Scope
   *score
   *stage
   *mission (not confirmed )
+  * Ranks (Star) / Reward for each mission
