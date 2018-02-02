@@ -4,14 +4,14 @@
    * 60130500203 Kritchagamol Sannarong (Drive)
    * 60130500219 Patipol Saechan (Pon) 
    
-# Last year video
+## Last year video
   * https://drive.google.com/open?id=0B-CdE0h2VaLEdzBsNndQQXNsTHM
   
-# Project Green_Foot
+## Project Green_Foot
   * For project green foot in CSC105
 
-# Project Name: Not decided 
-# Requirements:
+## Project Name: Not decided 
+## Requirements:
 Scope
   * 2D/Birdeye
   * 8 bits (not confirmed )
@@ -27,12 +27,12 @@ Scope
   * Consideration about game playing time (maybe less than 3 min)
   * method (explanation)
 
-# IDEAS: 
+## IDEAS: 
  1. Making a game 
  2. Simulation
  3. Educational teaching (Logic gate - COA)
  
- ## Game Samples:
+ ### Game Samples:
   * Big hunter (app game)
     - https://play.google.com/store/apps/details?id=com.kakarod.bighunter&hl=th
     - Casual game that upgrading your ability to score high
@@ -78,7 +78,7 @@ Scope
   * BB_Tan
     -
     
-# Note:
+## Note:
   * Color path for walking charector (advanture)
   * Use block to make a path
   * 
