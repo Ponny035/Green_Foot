@@ -1,0 +1,6 @@
+*.class
+*.ctxt
+doc/
+*.rar
+*.zip
+*.jar
