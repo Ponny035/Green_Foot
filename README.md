@@ -8,9 +8,9 @@
   * https://drive.google.com/open?id=0B-CdE0h2VaLEdzBsNndQQXNsTHM
   
 ## Project Green_Foot
+  * Project Name: Not decided 
   * For project green foot in CSC105
 
-## Project Name: Not decided 
 ## Requirements:
 Scope
   * 2D/Birdeye
@@ -73,10 +73,10 @@ Scope
     - 
     
   * Dudo Jump (app)
-    - 
+    - casual
     
-  * BB_Tan
-    -
+  * BB_Tan (app)
+    - casual
     
 ## Note:
   * Color path for walking charector (advanture)
