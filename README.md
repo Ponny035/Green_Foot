@@ -70,14 +70,14 @@ Scope
     - Simulation game about life
     - No graphic (can add and improve)
     - There are menu and options to select
-       <div style= "text-align:center"><center><img src = "picture/images.jpeg"> </center></div>
+       <div style= "text-align:center"><img src = "picture/images.jpeg"></div>
 
   * Dudo Jump (app)
     - https://play.google.com/store/apps/details?id=com.lima.doodlejump&hl=th
     - Adventure Game
     - Character need to jump among the monster upper sky
 
-    <div style= "text-align:center"><center><img src = "picture/bbtan-2.png"> </center></div>
+    <div style= "text-align:center"><img src = "picture/bbtan-2.png"></div>
    
   * BB_Tan (app)
     - https://play.google.com/store/apps/details?id=com.crater.bbtan
