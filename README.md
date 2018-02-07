@@ -73,14 +73,16 @@ Scope
     - 
     
   * Dudo Jump (app)
+    - https://play.google.com/store/apps/details?id=com.lima.doodlejump&hl=th
     - Adventure Game
-    - Character need to jump t
+    - Character need to jump among the monster upper sky
+    
     
   * BB_Tan (app)
     - Shoot the ball to the block in each mission
     - Each block have their own number ( If the block is number 20 so you need to hit them 20 times )
-    - They're so many type of balls ( you can change the balls / each ball are difference size )
-    - 
+    - They're so many type of balls ( you can change the balls / each ball are difference size, They're unlock from Gacha)
+    - the block will incressing one row everytime you shoot
     
     
 ## Note:
