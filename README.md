@@ -77,7 +77,7 @@ Scope
     - Adventure Game
     - Character need to jump among the monster upper sky
 
-    <center><img src = "picture/bbtan-2.png"> </center>
+    <div><center><img src = "picture/bbtan-2.png"> </center></div>
    
   * BB_Tan (app)
     - https://play.google.com/store/apps/details?id=com.crater.bbtan
