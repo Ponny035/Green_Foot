@@ -72,8 +72,9 @@ Scope
     - There are menu and options to select
     - 
     
+      <center><img src = "picture/images.jpeg"> </center>
+    
   * Dudo Jump (app)
-  <center><img src = "picture/images.jpeg"></center>
     - https://play.google.com/store/apps/details?id=com.lima.doodlejump&hl=th
     - Adventure Game
     - Character need to jump among the monster upper sky
