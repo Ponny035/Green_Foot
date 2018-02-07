@@ -70,7 +70,7 @@ Scope
     - Simulation game about life
     - No graphic (can add and improve)
     - There are menu and options to select
-    - 
+     
     
       <center><img src = "picture/images.jpeg"> </center>
     
@@ -80,12 +80,17 @@ Scope
     - Character need to jump among the monster upper sky
     
     
+    <center><img src = "picture/bbtan-1.png"> </center>
+    
   * BB_Tan (app)
     - https://play.google.com/store/apps/details?id=com.crater.bbtan
     - Shoot the ball to the block in each mission
     - Each block have their own number ( If the block is number 20 so you need to hit them 20 times )
     - They're so many type of balls ( you can change the balls / each ball are difference size, They're unlock from Gacha)
     - the block will incressing one row everytime you shoot
+    - Time Count System
+    - Number of balls are limited
+    
     
     
 ## Note:
