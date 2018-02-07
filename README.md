@@ -73,10 +73,15 @@ Scope
     - 
     
   * Dudo Jump (app)
-    - casual
+    - Adventure Game
+    - Character need to jump t
     
   * BB_Tan (app)
-    - casual
+    - Shoot the ball to the block in each mission
+    - Each block have their own number ( If the block is number 20 so you need to hit them 20 times )
+    - They're so many type of balls ( you can change the balls / each ball are difference size )
+    - 
+    
     
 ## Note:
   * Color path for walking charector (advanture)
