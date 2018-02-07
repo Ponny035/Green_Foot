@@ -14,6 +14,7 @@
 ## Requirements:
   ### Scope
     Phase 1
+    
       * location
           * set random spawn for character 
       * Map
