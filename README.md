@@ -13,51 +13,51 @@
 
 ## Requirements:
   ### Scope
-  Phase 1
+  #### Phase 1
   1. location
     * set random spawn for character 
-      * Map
-          * small - 2 maps
-          * medium - 2 maps
-          * lager - 2 maps
-      * Hp
-      * Weapons 
-          * watch
-          * punch
-          * Baseball bat
-          * shotgun
-          * AK
-          * Pistol
-          * rocket lancher
-          * granade
-          * nuke
-          * hidden
-      * use of weapons
-          * Basic
-          * low
-          * medium 
-          * high
-          * rare
-      * player
-          * small 4/6 players 
-          * medium 8 players
-          * large 12 players 
-      * movement
-          * up down left right jump
-      * Projectile 
-      * turn
-      * time 
-    Phase 2
-      * map destroy 
-      * music
-      * sound effects
-      * pop up
-      * lucky box
-      * movement
-          * kock back
-          * Expolsive
-    Phase 3
-      * 3D
+  2. Map
+    * small - 2 maps
+    * medium - 2 maps
+    * lager - 2 maps
+  3. Hp
+  4. Weapons 
+    * watch
+    * punch
+    * Baseball bat
+    * shotgun
+    * AK
+    * Pistol
+    * rocket lancher
+    * granade
+    * nuke
+    * hidden
+  5. use of weapons
+    * Basic
+    * low
+    * medium 
+    * high
+    * rare
+  6. player
+    * small 4/6 players 
+    * medium 8 players
+    * large 12 players 
+  7. movement
+    * up down left right jump
+  8. Projectile 
+  9. turn
+  10.time 
+ #### Phase 2
+  1. map destroy 
+  2. music
+  3. sound effects
+  4. pop up
+  5. lucky box
+  6. movement
+     * kock back
+     * Expolsive
+  #### Phase 3
+      1. 3D
       
   * 2D
   * 8 bits (not confirmed )
