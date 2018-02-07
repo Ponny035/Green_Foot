@@ -12,12 +12,56 @@
   * For project green foot in CSC105
 
 ## Requirements:
-Scope
-  * 2D/Birdeye
+  ### Scope
+    Phase 1
+      1. location
+        * set random spawn for character 
+      2. Map
+        * small - 2 maps
+        * medium - 2 maps
+        * lager - 2 maps
+      3. Hp
+      4. Weapons 
+        * watch
+        * punch
+        * Baseball bat
+        * shotgun
+        * AK
+        * Pistol
+        * rocket lancher
+        * granade
+        * nuke
+        * hidden
+      5. use of weapons
+        * Basic
+        * low
+        * medium 
+        * high
+        * rare
+      6. player
+        * small 4/6 players 
+        * medium 8 players
+        * large 12 players 
+      7. movement
+        * up down left right jump
+      8. Projectile 
+      9. turn
+      10.time 
+    Phase 2
+      1. map destroy 
+      2. music
+      3. sound effects
+      4. pop up
+      5. lucky box
+      6. movement
+        * kock back
+        * Expolsive
+    Phase 3
+      1. 3D
+      
+  * 2D
   * 8 bits (not confirmed )
-  * กวนตีน
   * score
-  * stage
   * mission (not confirmed )
   * Ranks (Star) / Reward for each mission
   * Difficulties - Easy/Medium/Hard
@@ -27,66 +71,8 @@ Scope
   * Consideration about game playing time (maybe less than 3 min)
   * method (explanation)
 
-## IDEAS:
- 1. Making a game
- 2. Simulation
- 3. Educational teaching (Logic gate - COA)
 
- ### Game Samples:
-  * Big hunter (app game)
-    - https://play.google.com/store/apps/details?id=com.kakarod.bighunter&hl=th
-    - Casual game that upgrading your ability to score high
-    - Need to think about how we create to pc version?
-    - Horizontal movemnet game with throwing throwable things to add damage to score high
-    - Think about throwing curve or straight
 
-  * Space Frontier (app game)
-    - https://play.google.com/store/apps/details?id=com.ketchapp.spacefrontier&hl=th
-    - Casual game that upgrade your ability to score high
-    - Transfer to pc version
-    - Vertical movement game with earning coins depends on how high the spaceship goes.
-    -
-
-  * Towel depends (app/pc)
-    - Tactical game
-    - Fix area with different upgrade cost and higher damage
-    -
-
-  * Bomberman (pc)
-    - http://th.y8.com/tags/Bomberman
-    - Action game
-    - Using bomb to get a item from block and defeat enemy
-    -
-
-  * Trap adv (app)
-    - https://play.google.com/store/apps/details?id=com.TrapAdventure.Trap_Adventure2
-    - Advanture game
-    - Charector needs to escape and reach at final goal
-    - There are obstacle trap to make game harder
-    - Horizontal move
-
-  * InstLife (app)
-    - https://play.google.com/store/apps/details?id=com.instcoffee.instlife&hl=th
-    - Simulation game about life
-    - No graphic (can add and improve)
-    - There are menu and options to select
-       <div style= "text-align:center"><img src = "picture/images.jpeg"></div>
-
-  * Dudo Jump (app)
-    - https://play.google.com/store/apps/details?id=com.lima.doodlejump&hl=th
-    - Adventure Game
-    - Character need to jump among the monster upper sky
-
-    <div style= "text-align:center"><img src = "picture/bbtan-2.png"></div>
-   
-  * BB_Tan (app)
-    - https://play.google.com/store/apps/details?id=com.crater.bbtan
-    - Shoot the ball to the block in each mission
-    - Each block have their own number ( If the block is number 20 so you need to hit them 20 times )
-    - They're so many type of balls ( you can change the balls / each ball are difference size, They're unlock from Gacha)
-    - the block will incressing one row everytime you shoot
-    - Time Count System
-    - Number of balls are limited
 
 ## Note:
   * Color path for walking charector (advanture)
