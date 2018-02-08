@@ -12,71 +12,72 @@
   * For project green foot in CSC105
 
 ## Requirements:
-  ### Scope
-  #### Phase 1
-  1. location
-      * set random spawn for character 
+### Scope
+#### Phase 1
+1. location
+  * set random spawn for character 
       
-  2. Map
-      * small - 2 maps
-      * medium - 2 maps
-      * lager - 2 maps
+2. Map
+  * small 2 maps
+  * medium 2 maps
+  * lager 2 maps
     
-  3. Hp
+3. Hp
   
-  4. Weapons 
-      * watch
-      * punch
-      * Baseball bat
-      * shotgun
-      * AK
-      * Pistol
-      * rocket lancher
-      * granade
-      * nuke
-      * hidden
+4. Weapons 
+  * watch
+  * punch
+  * Baseball bat
+  * shotgun
+  * AK
+  * Pistol
+  * rocket lancher
+  * granade
+  * nuke
+  * hidden
     
-  5. use of weapons
-      * Basic
-      * low
-      * medium 
-      * high
-      * rare
+5. use of weapons
+  * Basic
+  * low
+  * medium 
+  * high
+  * rare
     
-  6. player
-      * small 4/6 players 
-      * medium 8 players
-      * large 12 players 
+6. player
+  * small 4/6 players 
+  * medium 8 players
+  * large 12 players 
     
-  7. movement
-      * up down left right jump
+7. movement
+  * up down left right jump
       
-  8. Projectile 
+8. Projectile 
   
-  9. turn
+9. turn
   
-  10.time 
+10.time 
   
- #### Phase 2
-  1. map destroy 
+#### Phase 2
+1. map destroy 
   
-  2. music
+2. music
   
-  3. sound effects
+3. sound effects
   
-  4. pop up
+4. pop up
   
-  5. lucky box
+5. lucky box
   
-  6. movement
+6. movement
+  * kock back
+  * Expolsive
   
-     * kock back
-     * Expolsive
-  #### Phase 3
-  1. 3D
-      
-  * 2D
-  * 8 bits (not confirmed )
+#### Phase 3
+1. 3D
+  
+#### Other
+  * 2D
+  * 8 bits (not confirmed )
   * score
   * mission (not confirmed )
   * Ranks (Star) / Reward for each mission
