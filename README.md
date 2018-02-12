@@ -39,7 +39,7 @@
   * 
     
 5. use of weapons
-  * Basic - Infinite number of use
+  * Basic - Infinite
   * Low - 15
   * Medium  - 10
   * High - 5
@@ -63,6 +63,9 @@
   
 10.time
   * Keep it in consideration (Might not require)
+  
+11.keyboard
+  * Using spacebar to adjust power
   
 #### Phase 2
 1. map destroy (due to bomb)
@@ -97,6 +100,7 @@
 
 2. Devloping in dimention
 
+3. Think about it more!
   
 #### Other
   * 2D
