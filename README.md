@@ -168,7 +168,11 @@
   * Use block to make a path
   
 ## Example Code
-
+### Animation Class by Aof
+```
+https://github.com/aofpcc/DontTouchMe/blob/master/DontTouchMe/Animation.java
+```
+### Walk
 ```java
 private void checkKeys() {
         int x = getX();
