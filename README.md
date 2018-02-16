@@ -166,3 +166,18 @@
 ## Note:
   * Color path to make charector move at map
   * Use block to make a path
+  
+## Example Code
+
+```java
+private void checkKeys() {
+        int x = getX();
+        int y = getY();
+        if(Greenfoot.isKeyDown("left")) {
+            setLocation(x-2, y);
+        }
+        if(Greenfoot.isKeyDown("right")) {
+            setLocation(x+2, y);
+        }
+    }
+```
