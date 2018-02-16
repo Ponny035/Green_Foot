@@ -5,7 +5,9 @@
    * 60130500219 Patipol Saechan (Pon)
 
 ## Last year video
-  * https://drive.google.com/open?id=0B-CdE0h2VaLEdzBsNndQQXNsTHM
+ ``` 
+  https://drive.google.com/open?id=0B-CdE0h2VaLEdzBsNndQQXNsTHM
+  ```
 
 ## Project Green_Foot
   * Project Name: The War of Snowmen
@@ -169,7 +171,11 @@
   
 ## Example Code
 ### Animation Class by Aof
-```
+
+Agreement 
+  * can do anything with it only thing is "Please don't give this class to anyone else"
+  
+``` link
 https://github.com/aofpcc/DontTouchMe/blob/master/DontTouchMe/Animation.java
 ```
 ### Walk
